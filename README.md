@@ -1,7 +1,7 @@
 # GeXT
 A CNN based fully fledged Hand gesture to text converter for deaf &amp; dumb.
 
-Done as a part of #Image And Video Processing Course at IIIT-Allahabad
+Done as a part of Image And Video Processing (IIVP632C) Course at IIIT-Allahabad
 
 *************DATASET LINK**************
 If you dont want to generate your own dataset, then you can use our dataset.
