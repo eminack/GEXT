@@ -3,7 +3,7 @@ A CNN based fully fledged Hand gesture to text converter for deaf &amp; dumb.
 
 *************DATASET LINK**************
 If you dont want to generate your own dataset, then you can use our dataset.
-https://drive.google.com/drive/folders/1PStjyc4WxATfi_e-nzAynMkde4xTiEi-?usp=sharing
+https://drive.google.com/drive/folders/1ejRWKWzXoNih9MT2E8m19hFtVjB9XXCk?usp=sharing
 
 Steps to run this code on your pc :
 
